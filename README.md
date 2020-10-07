@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I am Narvuk 👋
+
+- 🔭 I’m currently working on this profile after spending some time away i have come back to open source which is a place i love to be. as i progress this will be updated.
 
 <!--
 **Narvuk/narvuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
